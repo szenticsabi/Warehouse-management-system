@@ -11,13 +11,13 @@ Egyszerű raktárkezelő alkalmazás.
 - Git (opcionális)
 
 ## Beállítás
-1) Backend környezeti változók (`backend/.env`):  
+Backend környezeti változók (`backend/.env`):  
 ATLAS_URI=your-mongodb-uri  
 JWT_SECRET=your-strong-secret  
 PORT=3000  
 
 
-2) Telepítés:  
+Telepítés:  
 Backend  
 cd backend  
 npm install  
@@ -28,7 +28,7 @@ cd ../frontend
 npm install  
 
 
-3) Futatás fejlesztői módban (két terminál):  
+Futatás fejlesztői módban (két terminál):  
 Terminál 1 - Backend  
 cd backend  
 npm start  
