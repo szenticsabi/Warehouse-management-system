@@ -1,0 +1,12 @@
+backend/node_modules/
+frontend/node_modules/
+backend/.env*
+**/dist/
+**/dist-ssr/
+**/coverage/
+*.log
+.DS_Store
+.vscode/*
+!.vscode/extensions.json
+Thumbs.db
+.idea/
