@@ -44,7 +44,7 @@ http://localhost:5173 vagy http://localhost:5174
 
 ## Tesztadatok (opcionális)
 .env beállítása után  
-node backend/seed.js  
+node --env-file=.env seed.js
 
 
 Admin belépés: `admin@warehouse.com` / `admin`.
